@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "anemi",
+  name: "anime",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "SHAHADAT SAHU",
   description: "Random Anime Videos From SAHU API",
   commandCategory: "video",
-  usages: "anemi",
+  usages: "anime",
   cooldowns: 5
 };
 
